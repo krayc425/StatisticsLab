@@ -3,6 +3,8 @@
 print api example: print('output is: ' + str(output))
 '''
 import random
+
+
 # from print_api import print
 
 
@@ -65,14 +67,16 @@ def estimate():
     print(ME3 / number_experiments)
 
     # log(H1/number_experiments)
-	# log(H2/number_experiments)
-	# log(H3/number_experiments)
-	# log(MSE1/number_experiments)
-	# log(MSE2/number_experiments)
-	# log(MSE3/number_experiments)
-	# log(ME1/number_experiments)
-	# log(ME2/number_experiments)
-	# log(ME3/number_experiments)
+
+
+# log(H2/number_experiments)
+# log(H3/number_experiments)
+# log(MSE1/number_experiments)
+# log(MSE2/number_experiments)
+# log(MSE3/number_experiments)
+# log(ME1/number_experiments)
+# log(ME2/number_experiments)
+# log(ME3/number_experiments)
 # the code should not be changed
 if __name__ == '__main__':
     estimate()

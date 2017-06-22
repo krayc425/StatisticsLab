@@ -3,6 +3,7 @@
 log api example: log('output is: ' + str(output))
 '''
 import random
+
 # from log_api import log
 
 '''

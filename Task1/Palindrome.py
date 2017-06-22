@@ -1,7 +1,6 @@
 # -*- coding:utf-8 -*-
 
 class Solution():
-
     def solve(self, A):
         result = []
         for string in A:
@@ -20,4 +19,4 @@ class Solution():
 
 
 p = Solution()
-print(p.solve(['123', '232', '4556554', '12123', '3443', '1314131']), end = "")
+print(p.solve(['123', '232', '4556554', '12123', '3443', '1314131']), end="")

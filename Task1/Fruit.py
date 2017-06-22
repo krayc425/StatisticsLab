@@ -14,5 +14,6 @@ class Solution():
             i += 1
         return result
 
+
 s = Solution()
-print(s.solve(['apple', 'banana', 'cherry', 'pineapple', 'banana', 'peach', 'pear','peach', 'cherry' ]))
+print(s.solve(['apple', 'banana', 'cherry', 'pineapple', 'banana', 'peach', 'pear', 'peach', 'cherry']))

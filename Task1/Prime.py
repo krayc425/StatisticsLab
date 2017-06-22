@@ -22,5 +22,6 @@ class Solution():
             i += 1
         return True
 
+
 s = Solution()
 print(s.solve([1, 2, 23, 24, 25]))

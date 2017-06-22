@@ -12,5 +12,6 @@ class Solution():
                 i += 1
         return result
 
+
 s = Solution()
 print(s.solve(['12', '34', '567', '36', '809', '120']))
